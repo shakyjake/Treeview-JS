@@ -1,6 +1,6 @@
 /*
 	Lists to Trees
-	2018-03-07 Jake Nicholson (www.eskdale.net)
+	2018-03-07 Jake Nicholson (github.com/shakyjake)
 	
 	This is free and unencumbered software released into the public domain.
 
